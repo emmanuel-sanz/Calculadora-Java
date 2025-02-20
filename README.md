@@ -1,2 +1,2 @@
-# Calculadora-Java
-la calculadora que me pidió el sensei ponchito
+# retos de progrmacion
+retos que me pide el sensei ponchito
